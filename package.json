@@ -1,0 +1,22 @@
+{
+  "name": "package-json-dir",
+  "version": "1.0.1",
+  "description": "get the first directory path the package.json file exists between root directory from process.cwd().",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ucchee/packageJsonDir.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Kazuyoshi Uechi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ucchee/packageJsonDir/issues"
+  },
+  "homepage": "https://github.com/ucchee/packageJsonDir#readme"
+}

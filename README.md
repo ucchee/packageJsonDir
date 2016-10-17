@@ -1,2 +1,3 @@
 # packageJsonDir
-ディレクトリをを遡ってpackage.json のあるディレクトリを取得
+
+get the first directory path the package.json file exists between root directory from process.cwd().
